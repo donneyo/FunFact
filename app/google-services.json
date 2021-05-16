@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "161369193075",
+    "project_id": "funfact-e42ad",
+    "storage_bucket": "funfact-e42ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161369193075:android:f6056248a4ea18af634806",
+        "android_client_info": {
+          "package_name": "com.neyo.funfact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161369193075-c2489i06ufdqvmsd2i4h711n3vcurll8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        { 
+          "current_key": "AIzaSyB8uCVOKGmAwz7oftOOVf1ZTowkC7LeAaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161369193075-c2489i06ufdqvmsd2i4h711n3vcurll8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
